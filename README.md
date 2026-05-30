@@ -1,4 +1,5 @@
 # Siyun Kim
+<img src="https://img.shields.io/badge/412ksy@kaist.ac.kr-005FF9?style=flat-square&logo=maildotru&logoColor=white"/> <img src="https://img.shields.io/badge/412ksy@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 **AI4Science Research | Computational Chemistry & Machine Learning**
 
