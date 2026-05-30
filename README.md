@@ -29,7 +29,7 @@ Advisor: Prof. Woo Youn Kim
 ## Education
 
 **KAIST**  
-B.S. in Chemistry, double major in School of Computing
+22.02 - 27.06 B.S. in Chemistry, double major in School of Computing
 
 ## Selected Projects
 
