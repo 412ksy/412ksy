@@ -11,7 +11,6 @@ Hi, I'm Siyun Kim. I work at the intersection of physical chemistry, computation
 - Molecular dynamics and DFT acceleration
 - Quantum mechanics in chemistry
 - Generative models for reaction explanation and chemical design
-- Flow matching and diffusion models
 
 ## Current Focus
 
